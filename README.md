@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @JeanPtz
 - 👀 I’m interested in Coding
-- 🌱 I’m currently learning Python and Kotlin
+- 🌱 I’m currently learning ReactJS and Kotlin
 - 💞️ I’m looking to collaborate on Games
 - 📫 How to reach me ...
 
